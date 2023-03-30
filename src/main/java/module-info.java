@@ -1,8 +1,8 @@
-module com.example.oop_graphics {
+module oopGraphics {
     requires javafx.controls;
     requires javafx.fxml;
 
-
-    opens com.example.oop_graphics to javafx.fxml;
+    //opens oopGraphics to javafx.fxml;
     exports com.example.oop_graphics;
+    exports oopGraphics;
 }

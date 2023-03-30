@@ -1,4 +1,4 @@
-package com.example.oop_graphics;
+package oopGraphics;
 
 import javafx.application.Application;
 import javafx.geometry.Insets;
