@@ -5,4 +5,5 @@ module oopGraphics {
     //opens oopGraphics to javafx.fxml;
     exports com.example.oop_graphics;
     exports oopGraphics;
+    exports kodu8;
 }
