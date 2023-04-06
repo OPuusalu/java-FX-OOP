@@ -6,4 +6,5 @@ module oopGraphics {
     exports com.example.oop_graphics;
     exports oopGraphics;
     exports kodu8;
+    exports praks8;
 }
